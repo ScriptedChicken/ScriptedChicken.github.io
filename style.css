@@ -6,8 +6,8 @@ body {
     color: #333;
 }
 header {
-    background-color: #006988;
-    color: #fff;
+    background-color: #ffc425;
+    color: #2f241d;
     text-align: center;
     padding: 1em 0;
 }
@@ -19,7 +19,7 @@ section {
 }
 
 h2 {
-    color: #009688;
+    color: #2f241d;
 }
 
 ul {
